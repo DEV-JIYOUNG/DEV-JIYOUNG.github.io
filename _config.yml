@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DEV-JIYOUNG Git"
+title                    : "아직은 코린이"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yoon Ji Young"
@@ -96,8 +96,8 @@ analytics:
 author:
   name             : "Yoon Ji Young"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "아직은 코린이"
+  location         : "South Korea"
   email            :
   links:
     - label: "Email"
